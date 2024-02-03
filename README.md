@@ -1,7 +1,17 @@
 # predprof
+1. Название проекта
+   Games 
+3. Описание проекта
+  Поиск, сортировка, исправление
+4. Оглавление (необязательно)
 
-game_one - task_1
-game_two - task_2
-game_three - task_3
-#Установка проекта
-1.Скопируйте к себе Git репозиторий с помощью git clone https://github.com/krymskijda/predprof
+5. Как установить и запустить проект
+   #Установка проекта
+  Скопируйте к себе Git репозиторий с помощью git clone https://github.com/krymskijda/predprof
+  game_one - task_1
+  game_two - task_2
+  game_three - task_3
+
+7. Как использовать проект
+Для решения задач по поиску персонажей и игр, для поиска типичных ошибок и дат этих ошибок.
+
